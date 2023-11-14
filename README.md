@@ -14,7 +14,7 @@ If you have questions or comments about FAD, you can:
 - use the ['Records in Contexts users' group](https://groups.google.com/g/Records_in_Contexts_users) to share your thoughts and proposals, ask questions, inform the community about your projects.
 
 RiC-FAD 1.0-beta comes with:
-- a **high level conceotual model, RiC-CM**. The latest official version of RiC-CM is **RiC-CM 1.0-beta**, that was published on November 14, 2023. This version is available here: [https://github.com/ICA-EGAD/RiC-CM](https://github.com/ICA-EGAD/RiC-CM).
+- a **high level conceptual model, RiC-CM**. The latest official version of RiC-CM is **RiC-CM 1.0-beta**, that was published on November 14, 2023. This version is available here: [https://github.com/ICA-EGAD/RiC-CM](https://github.com/ICA-EGAD/RiC-CM).
 - an OWL ontology, RiC-O.**
 The latest official version of RiC-O is **RiC-O 1.0-beta**, that was published on November 14, 2023, and conforms to RiC-CM 1.0-beta. This public version is available here: [https://github.com/ICA-EGAD/RiC-O](https://github.com/ICA-EGAD/RiC-O).**
 
