@@ -6,7 +6,7 @@ This is the public GitHub repository that holds the documents and information on
 
 **The latest version of RiC-FAD is RiC-FAD 1.0, that was published by ICA/EGAD on November 30, 2023**. It is available in the current-version subfolder of this repository.
 
-The previous version, RiC-FAD 1.0-beta, is available in the previous-versions subfolder of this repository, as well as the penultimate version, RiC-IAD 0.2.
+The previous versions of RiC-FAD are available in the previous-versions subfolder of this repository.
 
 If you have questions or comments about FAD, you can:
 - send your feedback directly to egad@ica.org
