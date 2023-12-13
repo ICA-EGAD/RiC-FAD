@@ -4,9 +4,8 @@ This is the public GitHub repository that holds the documents and information on
 
 **RiC-FAD is a is a brief description of the foundational principles and purposes of archival description.**.
 
-**The latest version of RiC-FAD is RiC-FAD 1.0, that was published by ICA/EGAD on November 30, 2023**. It is available in the current-version subfolder of this repository.
-
-The previous versions of RiC-FAD are available in the previous-versions subfolder of this repository.
+**The latest version of RiC-FAD is RiC-FAD 1.0, that was published by ICA/EGAD on November 30, 2023**. It is available for download [here](https://github.com/ICA-EGAD/RiC-FAD/releases/tag/v1.0). 
+It is available in the current-version subfolder of this repository. The previous versions of RiC-FAD are available in the previous-versions subfolder of this repository.
 
 If you have questions or comments about FAD, you can:
 - send your feedback directly to egad@ica.org
